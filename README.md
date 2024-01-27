@@ -1,4 +1,5 @@
-# An-lisis_de_calidad_del_aire
+# AnAlisis_de_calidad_del_aire
+
 # Solución 1: Cargar datos demográficos
 # - Utiliza pandas para cargar datos demográficos desde una URL.
 # - Realiza limpieza de datos eliminando columnas y duplicados.
